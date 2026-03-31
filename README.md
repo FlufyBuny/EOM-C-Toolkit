@@ -100,3 +100,7 @@ Customize freely for internal or client environments.
 Author
 
 Developed for real-world MSP operations to reduce friction and increase efficiency in Microsoft 365 administration.
+
+![Version](https://img.shields.io/badge/version-v1.1-blue)
+![Platform](https://img.shields.io/badge/platform-Windows%20%7C%20macOS-lightgrey)
+![PowerShell](https://img.shields.io/badge/powershell-5.1%2B%20%7C%20Core-blue)
