@@ -1,6 +1,8 @@
 ## Changelog
 See [CHANGELOG.md](./CHANGELOG.md) for version history.
 
+## Project
+
 EPSILON – Exchange Online & Compliance Toolkit
 
 EPSILON is a PowerShell-based administrative toolkit designed to simplify and streamline common tasks in Microsoft 365, specifically across Exchange Online and the Compliance (Purview) Center.
