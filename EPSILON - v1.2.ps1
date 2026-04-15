@@ -1,6 +1,6 @@
 <#
     EPSILON - Exchange & Compliance Admin Toolkit
-    Version: 1.1
+    Version: 1.2
 #>
 
 # =========================================================
